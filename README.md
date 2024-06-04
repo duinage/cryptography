@@ -8,3 +8,4 @@ This repository contains implementations and analysis of well-known ciphers and 
 5. kupyna.ipynb - Kupyna hash function (DSTU 7564:2014);
 6. RSA.py - RSA cryptosystem in Python with decryption using the Chinese Remainder Theorem;
 7. Miller_Rabin_primality_test.py - The Miller-Rabin primality test: an algorithm which determines whether a given number is prime or not;
+8. baby_step_giant_step.py - The baby-step giant-step is a meet-in-the-middle algorithm for computing the discrete logarithm;
